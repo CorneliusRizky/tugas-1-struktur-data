@@ -15,13 +15,14 @@ String[][] Angka = {
     {"14", "19", "20"},
     {"22", "27", "29"}
 
-
+}
 LinkedList<Integer> listAngka = new LinkedList<>();
 listAngka.add(22);
 listAngka.add(19);
 listAngka.add(44);
 listAngka.add(60);
 listAngka.add(72);
+
 
 
 
